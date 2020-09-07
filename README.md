@@ -4,7 +4,7 @@ This is a tip calculator application for iOS. Users can determine how much to pa
 
 Submitted by: Melissa Mitchell
 
-Time spent: 2 hours spent in total
+Time spent: 5 hours spent in total
 
 ## Features
 
@@ -20,9 +20,11 @@ The following **optional** features are in progress:
 * [ ] Using locale-specific currency and currency thousands separators.
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
-The following **additional** features are implemented:
-
 ## Video Walkthrough
 
 <img src='http://g.recordit.co/gWU9BVUb1Q.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+## Notes
+The most challenging part was getting used to the layout and all the settings that are possible. Also, it took me a while to make sure all the items were connected to the code correctly. Now that I figured out the basic elements, I am excited to continue working through the optional features to make this app more appealing.
+
 
