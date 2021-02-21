@@ -17,7 +17,4 @@ The following **required** functionality is complete:
 <img src='http://g.recordit.co/XmMfec6H31.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 GIF created with Recordit.
 
-## Notes
-The most challenging part was getting used to the layout and all the settings that are possible. Also, it took me a while to make sure all the items were connected to the code correctly. Now that I figured out the basic elements, I am excited to continue working through the optional features to make this app more appealing.
-
 
